@@ -13,11 +13,6 @@ export default function TabOneScreen() {
         <Tweet tweet={item}/>
       )}
     />
-    // <View style={styles.page}>
-    //   <Tweet tweet={tweets[0]}/>
-    //   <Tweet tweet={tweets[1]}/>
-    //   <Tweet tweet={tweets[2]}/>
-    // </View>
   );
 }
 

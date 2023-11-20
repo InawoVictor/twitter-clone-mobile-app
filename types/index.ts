@@ -2,7 +2,7 @@ export interface User {
     user: {
         id: string,
         name: string,
-        userName: string,
+        username: string,
         image?: string
     }
 }
